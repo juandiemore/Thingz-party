@@ -1,16 +1,20 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Inicio : MonoBehaviour
 {   
     private Animator ini;
-    public GameObject inicio;
+
+
+
     // Start is called before the first frame update
     void Start()
     {
         ini = GetComponent<Animator>();
-        inicio = GetComponent<GameObject>();
+       
+
     }
 
     // Update is called once per frame
@@ -23,7 +27,7 @@ public class Inicio : MonoBehaviour
       
     }
     public void LoadMenu(){
-     //   this.SetActive(false);
-        
+        SceneManager.LoadScene("menu");
+   
     }
 }
