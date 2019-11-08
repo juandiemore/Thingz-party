@@ -1,0 +1,1 @@
+Los mapas se escalan (haciendole un zoom) para que en la pelea este mueva de acuerdo al movimiento de los personajes. (mov izq-der y der-izq)
