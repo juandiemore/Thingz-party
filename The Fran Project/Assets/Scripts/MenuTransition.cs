@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class MenuTransition : MonoBehaviour
 {
@@ -30,6 +31,18 @@ public class MenuTransition : MonoBehaviour
 
     if(Input.GetKeyDown(KeyCode.Return)){
         animMenu.SetBool("selected",true);
+        }
     }
+
+    void Seleccionado(){
+        if(estado == 0){
+        SceneManager.LoadScene("juego");
+        }else if(estado == 1){
+            SceneManager.LoadScene("instrucciones");
+        }else if(estado == 2){
+            SceneManager.LoadScene("mapa");
+        }else if(estado == 3){
+            SceneManager.LoadScene("pjs");
+        }
     }
 }
