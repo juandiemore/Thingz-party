@@ -1,0 +1,1087 @@
+fileFormatVersion: 2
+guid: 1891e121d4791a140a0f86e50ca0145a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprite golpe 1 fireslam_0
+    21300002: Sprite golpe 1 fireslam_1
+    21300004: Sprite golpe 1 fireslam_2
+    21300006: Sprite golpe 1 fireslam_3
+    21300008: Sprite golpe 1 fireslam_4
+    21300010: Sprite golpe 1 fireslam_5
+    21300012: Sprite golpe 1 fireslam_6
+    21300014: Sprite golpe 1 fireslam_7
+    21300016: Sprite golpe 1 fireslam_8
+    21300018: Sprite golpe 1 fireslam_9
+    21300020: Sprite golpe 1 fireslam_10
+    21300022: Sprite golpe 1 fireslam_11
+    21300024: Sprite golpe 1 fireslam_12
+    21300026: Sprite golpe 1 fireslam_13
+    21300028: Sprite golpe 1 fireslam_14
+    21300030: Sprite golpe 1 fireslam_15
+    21300032: Sprite golpe 1 fireslam_16
+    21300034: Sprite golpe 1 fireslam_17
+    21300036: Sprite golpe 1 fireslam_18
+    21300038: Sprite golpe 1 fireslam_19
+    21300040: Sprite golpe 1 fireslam_20
+    21300042: Sprite golpe 1 fireslam_21
+    21300044: Sprite golpe 1 fireslam_22
+    21300046: Sprite golpe 1 fireslam_23
+    21300048: Sprite golpe 1 fireslam_24
+    21300050: Sprite golpe 1 fireslam_25
+    21300052: Sprite golpe 1 fireslam_26
+    21300054: Sprite golpe 1 fireslam_27
+    21300056: Sprite golpe 1 fireslam_28
+    21300058: Sprite golpe 1 fireslam_29
+    21300060: Sprite golpe 1 fireslam_30
+    21300062: Sprite golpe 1 fireslam_31
+    21300064: Sprite golpe 1 fireslam_32
+    21300066: Sprite golpe 1 fireslam_33
+    21300068: Sprite golpe 1 fireslam_34
+    21300070: Sprite golpe 1 fireslam_35
+    21300072: Sprite golpe 1 fireslam_36
+    21300074: Sprite golpe 1 fireslam_37
+    21300076: Sprite golpe 1 fireslam_38
+    21300078: Sprite golpe 1 fireslam_39
+    21300080: Sprite golpe 1 fireslam_40
+    21300082: Sprite golpe 1 fireslam_41
+    21300084: Sprite golpe 1 fireslam_42
+    21300086: Sprite golpe 1 fireslam_43
+    21300088: Sprite golpe 1 fireslam_44
+    21300090: Sprite golpe 1 fireslam_45
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_0
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 8068
+        width: 914
+        height: 1508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa460cdc60116354cac52c50a0f7ef9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_1
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 8073
+        width: 914
+        height: 1503
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf8e1cf9db0a2b4c9ddcaa5f849b3dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_2
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 8073
+        width: 914
+        height: 1503
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cce4da8e6b6c44ab357dbebfdebfd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_3
+      rect:
+        serializedVersion: 2
+        x: 3735
+        y: 8068
+        width: 900
+        height: 1493
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5379cbd937bf99499a3aa7682936286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_4
+      rect:
+        serializedVersion: 2
+        x: 4961
+        y: 8068
+        width: 914
+        height: 1503
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffafe628997d2f14bba76ca34bddb32f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_5
+      rect:
+        serializedVersion: 2
+        x: 6206
+        y: 8068
+        width: 899
+        height: 1493
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0910cbaf57a3e4baf619681e9e5529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_6
+      rect:
+        serializedVersion: 2
+        x: 7382
+        y: 8083
+        width: 905
+        height: 1488
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d096907c1c1d5845bccafdeb2d4a485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_7
+      rect:
+        serializedVersion: 2
+        x: 8555
+        y: 8068
+        width: 899
+        height: 1488
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86f20f7bc16ac945b47e1fb922c48b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_8
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 6108
+        width: 895
+        height: 1498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfce3a176b7997a4c8627f46fc574dc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_9
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 6089
+        width: 914
+        height: 1498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82c879fcf0a2f948bf7a9b7de9498f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_10
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 6089
+        width: 914
+        height: 1498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a354e0646f185ba449a559ed4e2121c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_11
+      rect:
+        serializedVersion: 2
+        x: 3638
+        y: 6089
+        width: 899
+        height: 1498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f4e222a498ad14dac4f35b607e7e27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_12
+      rect:
+        serializedVersion: 2
+        x: 4961
+        y: 6108
+        width: 914
+        height: 1498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33f57e50ea7b46469899777d5a20fd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_13
+      rect:
+        serializedVersion: 2
+        x: 6225
+        y: 6030
+        width: 914
+        height: 1503
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c6fa18aaecebc46b473d49dfd38257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_14
+      rect:
+        serializedVersion: 2
+        x: 7485
+        y: 6030
+        width: 899
+        height: 1503
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5ac1884cfe74741893d83eb6129797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_15
+      rect:
+        serializedVersion: 2
+        x: 8559
+        y: 6030
+        width: 915
+        height: 1503
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30d55d5da10cd24eb019e37b63fe4e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_16
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 4236
+        width: 933
+        height: 1493
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a16e0fbb45df9f4bb4a478cbe4e40ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_17
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 4231
+        width: 973
+        height: 1493
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52924b14f2583124aa5fc9d9ca808389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_18
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 4221
+        width: 1031
+        height: 1503
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088b1f4a6762e1247b4a0fccd1b32275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_19
+      rect:
+        serializedVersion: 2
+        x: 3579
+        y: 4221
+        width: 915
+        height: 1503
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e282b1f72e209d1438b13bfea8087bb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_20
+      rect:
+        serializedVersion: 2
+        x: 4523
+        y: 4722
+        width: 136
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfa03286aef903449e18bf20aab6db8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_21
+      rect:
+        serializedVersion: 2
+        x: 4820
+        y: 4216
+        width: 899
+        height: 1493
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbbf82c0ddfcc04cb019a64eefe5bc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_22
+      rect:
+        serializedVersion: 2
+        x: 5797
+        y: 4708
+        width: 141
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153ca711979ba2c4c81795cdc3831e22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_23
+      rect:
+        serializedVersion: 2
+        x: 6089
+        y: 4221
+        width: 914
+        height: 1498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3765681d7c4549e4e9fe18191d9a28fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_24
+      rect:
+        serializedVersion: 2
+        x: 7120
+        y: 4722
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a51d7dea75db1b40be5c5e8ad5062c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_25
+      rect:
+        serializedVersion: 2
+        x: 7368
+        y: 4202
+        width: 900
+        height: 1488
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2865174b14d62e4418535ec4d5b8520c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_26
+      rect:
+        serializedVersion: 2
+        x: 8438
+        y: 4688
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c3698695d8ef6448837b216c785ec7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_27
+      rect:
+        serializedVersion: 2
+        x: 8618
+        y: 4202
+        width: 899
+        height: 1488
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8d785e9e73dcd44aa62795eead65ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_28
+      rect:
+        serializedVersion: 2
+        x: 9741
+        y: 4688
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69990475fde364b47b0fa9ff4714ceff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_29
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 2373
+        width: 894
+        height: 1484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3505c984cbf698a49a936f488b3c1fac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_30
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 2864
+        width: 141
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d18d3431993b474b9595e515aafeb19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_31
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 2373
+        width: 900
+        height: 1484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a5de43b6b08a2478c1255f2012b4fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_32
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 2860
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36306b3726d56eb4ca6521fc654ca7af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_33
+      rect:
+        serializedVersion: 2
+        x: 3647
+        y: 2373
+        width: 895
+        height: 1488
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c900eb725e2b024b875442c62a0df27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_34
+      rect:
+        serializedVersion: 2
+        x: 4902
+        y: 2860
+        width: 136
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0edf110c7017f4c8dc1857f2e52f52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_35
+      rect:
+        serializedVersion: 2
+        x: 5539
+        y: 2407
+        width: 900
+        height: 1488
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2873fc65f6e8894a8275d45ca9b460f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_36
+      rect:
+        serializedVersion: 2
+        x: 6843
+        y: 2899
+        width: 141
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b525d1f5d88304a88421cad354547a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_37
+      rect:
+        serializedVersion: 2
+        x: 7665
+        y: 2407
+        width: 894
+        height: 1488
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f70cac0f96302041ad35b793285f255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_38
+      rect:
+        serializedVersion: 2
+        x: 9017
+        y: 2894
+        width: 131
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ab1ec1f950fb84b9622da2b260774a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_39
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 345
+        width: 899
+        height: 1493
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb243a91894a6b0449be4ac35b2d77f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_40
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 832
+        width: 132
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f818db9738122f7438f3f8deb9fe75d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_41
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 345
+        width: 900
+        height: 1488
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdebe6d6fc182e1488f5f76eb603f32f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_42
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 832
+        width: 97
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b4f07a0d77c2c4a979abf6d7d35aa1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_43
+      rect:
+        serializedVersion: 2
+        x: 4105
+        y: 345
+        width: 899
+        height: 1488
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bcac2e659ac61489fb60fa53dffc97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_44
+      rect:
+        serializedVersion: 2
+        x: 5583
+        y: 841
+        width: 58
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0995d45f4aa124fae3ab45fcf101f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite golpe 1 fireslam_45
+      rect:
+        serializedVersion: 2
+        x: 6215
+        y: 370
+        width: 905
+        height: 1498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6399df13a1735c42b2102af4f30738c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f7584edd3cc378f458ff0316a5950212
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

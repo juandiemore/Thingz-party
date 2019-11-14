@@ -1,7 +1,12 @@
 fileFormatVersion: 2
-guid: 0b7aff394d9f49b41bd5a6d06161e046
+guid: 62a2366b64e36914bbd0b9dc69ec6554
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: golepado_0
+    21300002: golepado_1
+    21300004: golepado_2
+    21300006: golepado_3
+    21300008: golepado_4
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -104,11 +109,111 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: golepado_0
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 4066
+        width: 882
+        height: 1788
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaee4a0f9e86264eaebb7662b57b46c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golepado_1
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 4090
+        width: 961
+        height: 1711
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cbb8db9b9ab7b44a0f74e78807271f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golepado_2
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 4072
+        width: 1011
+        height: 1623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6beee7ebd0611694eb5c71d604832b9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golepado_3
+      rect:
+        serializedVersion: 2
+        x: 3735
+        y: 4043
+        width: 955
+        height: 1711
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd5866c7462ff442a27734cf30c434e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golepado_4
+      rect:
+        serializedVersion: 2
+        x: 4828
+        y: 4025
+        width: 879
+        height: 1788
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc373a288c04af45be920fa79dd647f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 800c30f90235d124fa97db3eba48bdc7
+    spriteID: d2f514224e8f4c041a0c1cd6fc67e4ed
     vertices: []
     indices: 
     edges: []

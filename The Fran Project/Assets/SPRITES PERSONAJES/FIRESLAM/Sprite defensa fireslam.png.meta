@@ -1,33 +1,40 @@
 fileFormatVersion: 2
-guid: 0070d6cb7e99a3c4bbb0f545289341de
+guid: de876ed9b15e7d5498e03c8d31e78694
 TextureImporter:
   fileIDToRecycleName:
-    21300000: sprite salto fireslam_0
-    21300002: sprite salto fireslam_1
-    21300004: sprite salto fireslam_2
-    21300006: sprite salto fireslam_3
-    21300008: sprite salto fireslam_4
-    21300010: sprite salto fireslam_5
-    21300012: sprite salto fireslam_6
-    21300014: sprite salto fireslam_7
-    21300016: sprite salto fireslam_8
-    21300018: sprite salto fireslam_9
-    21300020: sprite salto fireslam_10
-    21300022: sprite salto fireslam_11
-    21300024: sprite salto fireslam_12
-    21300026: sprite salto fireslam_13
-    21300028: sprite salto fireslam_14
-    21300030: sprite salto fireslam_15
-    21300032: sprite salto fireslam_16
-    21300034: sprite salto fireslam_17
-    21300036: sprite salto fireslam_18
-    21300038: sprite salto fireslam_19
-    21300040: sprite salto fireslam_20
-    21300042: sprite salto fireslam_21
-    21300044: sprite salto fireslam_22
-    21300046: sprite salto fireslam_23
-    21300048: sprite salto fireslam_24
-    21300050: sprite salto fireslam_25
+    21300000: Sprite defensa fireslam_0
+    21300002: Sprite defensa fireslam_1
+    21300004: Sprite defensa fireslam_2
+    21300006: Sprite defensa fireslam_3
+    21300008: Sprite defensa fireslam_4
+    21300010: Sprite defensa fireslam_5
+    21300012: Sprite defensa fireslam_6
+    21300014: Sprite defensa fireslam_7
+    21300016: Sprite defensa fireslam_8
+    21300018: Sprite defensa fireslam_9
+    21300020: Sprite defensa fireslam_10
+    21300022: Sprite defensa fireslam_11
+    21300024: Sprite defensa fireslam_12
+    21300026: Sprite defensa fireslam_13
+    21300028: Sprite defensa fireslam_14
+    21300030: Sprite defensa fireslam_15
+    21300032: Sprite defensa fireslam_16
+    21300034: Sprite defensa fireslam_17
+    21300036: Sprite defensa fireslam_18
+    21300038: Sprite defensa fireslam_19
+    21300040: Sprite defensa fireslam_20
+    21300042: Sprite defensa fireslam_21
+    21300044: Sprite defensa fireslam_22
+    21300046: Sprite defensa fireslam_23
+    21300048: Sprite defensa fireslam_24
+    21300050: Sprite defensa fireslam_25
+    21300052: Sprite defensa fireslam_26
+    21300054: Sprite defensa fireslam_27
+    21300056: Sprite defensa fireslam_28
+    21300058: Sprite defensa fireslam_29
+    21300060: Sprite defensa fireslam_30
+    21300062: Sprite defensa fireslam_31
+    21300064: Sprite defensa fireslam_32
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -71,7 +78,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 50
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -132,521 +139,641 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: sprite salto fireslam_0
+      name: Sprite defensa fireslam_0
       rect:
         serializedVersion: 2
-        x: 520
-        y: 8093
-        width: 905
-        height: 1502
+        x: 561
+        y: 8194
+        width: 1005
+        height: 1648
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ddd86b5d2203f6e4f96a09db0fb20bcf
+      spriteID: 8d3a89f52f24d6c47a22fe7ad1e7e41f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_1
+      name: Sprite defensa fireslam_1
       rect:
         serializedVersion: 2
-        x: 1517
-        y: 8151
-        width: 920
-        height: 1532
+        x: 1798
+        y: 8194
+        width: 986
+        height: 1638
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87ff3bc4cfd99c544af703b4d056fc57
+      spriteID: 66b3a53b7d9fa374bab034fea2409b70
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_2
+      name: Sprite defensa fireslam_2
       rect:
         serializedVersion: 2
-        x: 2723
-        y: 8151
-        width: 920
-        height: 1532
+        x: 3012
+        y: 8194
+        width: 976
+        height: 1629
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d042b612c51e10a4280d65540a53f714
+      spriteID: 96d9c541fac2a214dbfa96244354da07
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_3
+      name: Sprite defensa fireslam_3
       rect:
         serializedVersion: 2
-        x: 4037
-        y: 8146
-        width: 943
-        height: 1522
+        x: 4191
+        y: 8194
+        width: 991
+        height: 1638
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 940b75b2dda08ae408c25266e6a570a6
+      spriteID: 3408dfda169d02e4ba8987f3f0502f55
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_4
+      name: Sprite defensa fireslam_4
       rect:
         serializedVersion: 2
-        x: 5350
-        y: 8146
-        width: 943
-        height: 1522
+        x: 5506
+        y: 8194
+        width: 981
+        height: 1638
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e11f1aa583b5f484ca0160d171231fb0
+      spriteID: 243e15417a9dd5a49ba1097926eb1c30
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_5
+      name: Sprite defensa fireslam_5
       rect:
         serializedVersion: 2
-        x: 6668
-        y: 8131
-        width: 958
-        height: 1503
+        x: 6840
+        y: 8179
+        width: 996
+        height: 1634
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 954c724dbdcbf6c4fb5beff165960b1a
+      spriteID: 23dd337ea6f95f44c9f420ad734c6c59
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_6
+      name: Sprite defensa fireslam_6
       rect:
         serializedVersion: 2
-        x: 7995
-        y: 8209
-        width: 973
-        height: 1484
+        x: 8256
+        y: 8160
+        width: 1045
+        height: 1653
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e3eb25cc93709141825fff2646e4d63
+      spriteID: c4042b4ada65ff54abb72cf6f3ae1031
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_7
+      name: Sprite defensa fireslam_7
       rect:
         serializedVersion: 2
-        x: 525
-        y: 6337
-        width: 978
-        height: 1464
+        x: 541
+        y: 6197
+        width: 1049
+        height: 1653
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b9c3cdc23ada80e4fbd84d77333c9227
+      spriteID: bb333030664188547813b7501f449aaa
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_8
+      name: Sprite defensa fireslam_8
       rect:
         serializedVersion: 2
-        x: 1731
-        y: 6337
-        width: 1012
-        height: 1449
+        x: 1798
+        y: 6188
+        width: 1064
+        height: 1662
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1e1a0b5e83f555047a34830b4131e42b
+      spriteID: 6e1656417df69a04f9074d18dc130964
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_9
+      name: Sprite defensa fireslam_9
       rect:
         serializedVersion: 2
-        x: 3171
-        y: 6288
-        width: 982
-        height: 1498
+        x: 3055
+        y: 6197
+        width: 1083
+        height: 1653
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c57f8b8107350c54393585ea731b9cf8
+      spriteID: b3aad5b943966274b9db5f7350cc2cce
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_10
+      name: Sprite defensa fireslam_10
       rect:
         serializedVersion: 2
-        x: 4508
-        y: 6244
-        width: 968
-        height: 1542
+        x: 4331
+        y: 6188
+        width: 1093
+        height: 1662
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61f3d0711b5c9924b97034f462f778b5
+      spriteID: d588588ebd041534d981c52d6f85ec34
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_11
+      name: Sprite defensa fireslam_11
       rect:
         serializedVersion: 2
-        x: 5826
-        y: 6235
-        width: 963
-        height: 1551
+        x: 5627
+        y: 6188
+        width: 1121
+        height: 1662
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6c559eba85dc15f42b5c441710927aec
+      spriteID: 3475853a8becab1449aa9566c574abff
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_12
+      name: Sprite defensa fireslam_12
       rect:
         serializedVersion: 2
-        x: 7139
-        y: 6283
-        width: 939
-        height: 1459
+        x: 6787
+        y: 6192
+        width: 1121
+        height: 1658
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b829ac9e6165a9e4cb3d4bfb86abe1e9
+      spriteID: 485d826d5b8de284080e24da0e60fa84
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_13
+      name: Sprite defensa fireslam_13
       rect:
         serializedVersion: 2
-        x: 8438
-        y: 6225
-        width: 943
-        height: 1440
+        x: 8140
+        y: 6129
+        width: 1161
+        height: 1721
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 95a92092b0c7c514996e62f6acb9b7dd
+      spriteID: 07691866bc5499e4aa128a289d0ef250
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_14
+      name: Sprite defensa fireslam_14
       rect:
         serializedVersion: 2
-        x: 564
-        y: 4533
-        width: 963
-        height: 1410
+        x: 541
+        y: 3983
+        width: 1146
+        height: 1721
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d3ae8e2e1416e448a0b7c6eaa061e15
+      spriteID: e141c003d7aec2e43ad0c69236cb7235
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_15
+      name: Sprite defensa fireslam_15
       rect:
         serializedVersion: 2
-        x: 1765
-        y: 4533
-        width: 963
-        height: 1400
+        x: 1798
+        y: 3988
+        width: 1127
+        height: 1716
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ded90daf703eaa54fb52ab29bb222adc
+      spriteID: b57d3188f22478749a5f445f2232c04e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_16
+      name: Sprite defensa fireslam_16
       rect:
         serializedVersion: 2
         x: 3074
-        y: 4533
-        width: 972
-        height: 1381
+        y: 3983
+        width: 1127
+        height: 1726
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 096bedd86b16bfd4094a4145b76cbb42
+      spriteID: ca0fbc26dc0a11541ba9c3879c632ab2
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_17
+      name: Sprite defensa fireslam_17
       rect:
         serializedVersion: 2
-        x: 4518
-        y: 4494
-        width: 948
-        height: 1391
+        x: 4307
+        y: 3983
+        width: 1107
+        height: 1721
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9699ca3d1433ca548a4800205c74c03e
+      spriteID: 77a4660ea576f764581eec48b320a8b9
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_18
+      name: Sprite defensa fireslam_18
       rect:
         serializedVersion: 2
-        x: 5933
-        y: 4469
-        width: 944
-        height: 1416
+        x: 5549
+        y: 3983
+        width: 1103
+        height: 1721
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9018a5098609575428adb76ef830085a
+      spriteID: 89195d831cb50094389e4f9551ea3374
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_19
+      name: Sprite defensa fireslam_19
       rect:
         serializedVersion: 2
-        x: 7358
-        y: 4440
-        width: 929
-        height: 1454
+        x: 6826
+        y: 3983
+        width: 1082
+        height: 1721
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb0af17ba0bc0364f8d32532a9acea7e
+      spriteID: 5818ef746505e6b429a5ea725d3a050c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_20
+      name: Sprite defensa fireslam_20
       rect:
         serializedVersion: 2
-        x: 8773
-        y: 4411
-        width: 915
-        height: 1474
+        x: 8102
+        y: 3983
+        width: 1068
+        height: 1726
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6fce8e71ea9bea94fb9c2902e6d35b3a
+      spriteID: abfc5f59f72a0a74f912dc4259e48f61
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_21
+      name: Sprite defensa fireslam_21
       rect:
         serializedVersion: 2
-        x: 506
-        y: 2626
-        width: 914
-        height: 1488
+        x: 541
+        y: 1929
+        width: 1064
+        height: 1721
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6d1858b0856d2ce4183dba8f672c1f3e
+      spriteID: 4d8c1e7fee024ed489415afcf6482e82
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_22
+      name: Sprite defensa fireslam_22
       rect:
         serializedVersion: 2
-        x: 1765
-        y: 2626
-        width: 920
-        height: 1503
+        x: 1760
+        y: 1929
+        width: 1063
+        height: 1716
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 561787be3ee7419458c64f5ba8b953bd
+      spriteID: 430a6fe8d2d07454b80b464a5820186a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_23
+      name: Sprite defensa fireslam_23
       rect:
         serializedVersion: 2
-        x: 3171
-        y: 2660
-        width: 919
-        height: 1513
+        x: 3012
+        y: 1929
+        width: 1029
+        height: 1725
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d48f6bd01b5ed2c4d9874b5d7b2ae4c2
+      spriteID: db3b414032c563b48b5ac324051ba26f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_24
+      name: Sprite defensa fireslam_24
       rect:
         serializedVersion: 2
-        x: 4528
-        y: 2587
-        width: 919
-        height: 1537
+        x: 4191
+        y: 1934
+        width: 1030
+        height: 1696
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d0b843173aaee474c90763b3548fbef5
+      spriteID: d3851b684ea163746bb76778041fcb6d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_25
+      name: Sprite defensa fireslam_26
       rect:
         serializedVersion: 2
-        x: 5933
-        y: 2587
-        width: 934
-        height: 1522
+        x: 5433
+        y: 1934
+        width: 1030
+        height: 1720
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a15d3b48c53e2644b572ae930081818
+      spriteID: 80e4dace02ff8874186230219569a0b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite defensa fireslam_27
+      rect:
+        serializedVersion: 2
+        x: 6729
+        y: 1856
+        width: 1044
+        height: 1721
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf3f398f60870d408aa9919a74d3329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite defensa fireslam_28
+      rect:
+        serializedVersion: 2
+        x: 8179
+        y: 1842
+        width: 1044
+        height: 1735
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f0f86a8af0e2e4fbab98d8fbb4f51d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite defensa fireslam_29
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 58
+        width: 1045
+        height: 1735
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cfa8f16b2e1074e83e07efa5f3460f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite defensa fireslam_30
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 58
+        width: 1044
+        height: 1740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca333a5ed162c24eac6afa165df495b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite defensa fireslam_31
+      rect:
+        serializedVersion: 2
+        x: 3021
+        y: 63
+        width: 1040
+        height: 1730
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8e4ce5a44a98f4398e1022d44cdca2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite defensa fireslam_32
+      rect:
+        serializedVersion: 2
+        x: 4191
+        y: 63
+        width: 1049
+        height: 1730
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a442fdab19b724da34631a676066d4
       vertices: []
       indices: 
       edges: []
@@ -654,7 +781,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: ef909de66ded3b944ab1713fc4f74bd0
+    spriteID: b1b1d305b5e284948bbc488a74d1ebe0
     vertices: []
     indices: 
     edges: []

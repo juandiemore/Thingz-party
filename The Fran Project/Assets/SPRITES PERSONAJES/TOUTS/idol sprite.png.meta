@@ -1,33 +1,25 @@
 fileFormatVersion: 2
-guid: 0070d6cb7e99a3c4bbb0f545289341de
+guid: 34dfe81050c5fac4a83e7e0f80e512d4
 TextureImporter:
   fileIDToRecycleName:
-    21300000: sprite salto fireslam_0
-    21300002: sprite salto fireslam_1
-    21300004: sprite salto fireslam_2
-    21300006: sprite salto fireslam_3
-    21300008: sprite salto fireslam_4
-    21300010: sprite salto fireslam_5
-    21300012: sprite salto fireslam_6
-    21300014: sprite salto fireslam_7
-    21300016: sprite salto fireslam_8
-    21300018: sprite salto fireslam_9
-    21300020: sprite salto fireslam_10
-    21300022: sprite salto fireslam_11
-    21300024: sprite salto fireslam_12
-    21300026: sprite salto fireslam_13
-    21300028: sprite salto fireslam_14
-    21300030: sprite salto fireslam_15
-    21300032: sprite salto fireslam_16
-    21300034: sprite salto fireslam_17
-    21300036: sprite salto fireslam_18
-    21300038: sprite salto fireslam_19
-    21300040: sprite salto fireslam_20
-    21300042: sprite salto fireslam_21
-    21300044: sprite salto fireslam_22
-    21300046: sprite salto fireslam_23
-    21300048: sprite salto fireslam_24
-    21300050: sprite salto fireslam_25
+    21300000: idol sprite_0
+    21300002: idol sprite_1
+    21300004: idol sprite_2
+    21300006: idol sprite_3
+    21300008: idol sprite_4
+    21300010: idol sprite_5
+    21300012: idol sprite_6
+    21300014: idol sprite_7
+    21300016: idol sprite_8
+    21300018: idol sprite_9
+    21300020: idol sprite_10
+    21300022: idol sprite_11
+    21300024: idol sprite_12
+    21300026: idol sprite_13
+    21300028: idol sprite_14
+    21300030: idol sprite_15
+    21300032: idol sprite_16
+    21300034: idol sprite_17
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -132,13 +124,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: sprite salto fireslam_0
+      name: idol sprite_0
       rect:
         serializedVersion: 2
-        x: 520
-        y: 8093
-        width: 905
-        height: 1502
+        x: 152
+        y: 4055
+        width: 824
+        height: 1781
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -146,19 +138,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ddd86b5d2203f6e4f96a09db0fb20bcf
+      spriteID: f9b9965266c474c4aa7e102628b2cfcd
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_1
+      name: idol sprite_1
       rect:
         serializedVersion: 2
-        x: 1517
-        y: 8151
-        width: 920
-        height: 1532
+        x: 996
+        y: 4113
+        width: 826
+        height: 1770
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,19 +158,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87ff3bc4cfd99c544af703b4d056fc57
+      spriteID: bffdb06699039fb48bdf9361b6b5aad6
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_2
+      name: idol sprite_2
       rect:
         serializedVersion: 2
-        x: 2723
-        y: 8151
-        width: 920
-        height: 1532
+        x: 1896
+        y: 4125
+        width: 823
+        height: 1772
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -186,19 +178,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d042b612c51e10a4280d65540a53f714
+      spriteID: 96b49228143eda64389229c0d067b5cc
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_3
+      name: idol sprite_3
       rect:
         serializedVersion: 2
-        x: 4037
-        y: 8146
-        width: 943
-        height: 1522
+        x: 2742
+        y: 4137
+        width: 826
+        height: 1760
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -206,19 +198,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 940b75b2dda08ae408c25266e6a570a6
+      spriteID: 20a058405d685834fa766255b97e7b7b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_4
+      name: idol sprite_4
       rect:
         serializedVersion: 2
-        x: 5350
-        y: 8146
-        width: 943
-        height: 1522
+        x: 3642
+        y: 4137
+        width: 835
+        height: 1760
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -226,19 +218,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e11f1aa583b5f484ca0160d171231fb0
+      spriteID: 72e80db41faacef498c4bff042f8a4a2
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_5
+      name: idol sprite_5
       rect:
         serializedVersion: 2
-        x: 6668
-        y: 8131
-        width: 958
-        height: 1503
+        x: 4488
+        y: 4137
+        width: 835
+        height: 1758
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -246,19 +238,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 954c724dbdcbf6c4fb5beff165960b1a
+      spriteID: b9fd3e13c5b1e6442862b5555afd7c57
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_6
+      name: idol sprite_6
       rect:
         serializedVersion: 2
-        x: 7995
-        y: 8209
-        width: 973
-        height: 1484
+        x: 173
+        y: 2106
+        width: 835
+        height: 1749
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -266,19 +258,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e3eb25cc93709141825fff2646e4d63
+      spriteID: 8972bd673bc0215459aa9f23b0615673
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_7
+      name: idol sprite_7
       rect:
         serializedVersion: 2
-        x: 525
-        y: 6337
-        width: 978
-        height: 1464
+        x: 1066
+        y: 2165
+        width: 832
+        height: 1749
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -286,19 +278,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b9c3cdc23ada80e4fbd84d77333c9227
+      spriteID: 30c6a67cbd693fd429f910f87cd4062f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_8
+      name: idol sprite_8
       rect:
         serializedVersion: 2
-        x: 1731
-        y: 6337
-        width: 1012
-        height: 1449
+        x: 1963
+        y: 2191
+        width: 838
+        height: 1741
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -306,19 +298,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1e1a0b5e83f555047a34830b4131e42b
+      spriteID: 560f8442507f3c6488d49fffdfbf65c9
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_9
+      name: idol sprite_9
       rect:
         serializedVersion: 2
-        x: 3171
-        y: 6288
-        width: 982
-        height: 1498
+        x: 2862
+        y: 2238
+        width: 832
+        height: 1735
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -326,19 +318,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c57f8b8107350c54393585ea731b9cf8
+      spriteID: d547c89b402d9c646bcf5f31cf2578a1
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_10
+      name: idol sprite_10
       rect:
         serializedVersion: 2
-        x: 4508
-        y: 6244
-        width: 968
-        height: 1542
+        x: 3747
+        y: 2250
+        width: 835
+        height: 1746
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -346,19 +338,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61f3d0711b5c9924b97034f462f778b5
+      spriteID: 592371561116cf14e869d95faa636d1a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_11
+      name: idol sprite_11
       rect:
         serializedVersion: 2
-        x: 5826
-        y: 6235
-        width: 963
-        height: 1551
+        x: 4629
+        y: 2250
+        width: 838
+        height: 1749
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -366,19 +358,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6c559eba85dc15f42b5c441710927aec
+      spriteID: 0ff7c71129cfbc04ca0e18a4e64ebbac
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_12
+      name: idol sprite_12
       rect:
         serializedVersion: 2
-        x: 7139
-        y: 6283
-        width: 939
-        height: 1459
+        x: 141
+        y: 223
+        width: 835
+        height: 1749
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -386,19 +378,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b829ac9e6165a9e4cb3d4bfb86abe1e9
+      spriteID: b8c70bbd42cd2b94a923038f6a516980
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_13
+      name: idol sprite_13
       rect:
         serializedVersion: 2
-        x: 8438
-        y: 6225
-        width: 943
-        height: 1440
+        x: 996
+        y: 223
+        width: 832
+        height: 1757
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -406,19 +398,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 95a92092b0c7c514996e62f6acb9b7dd
+      spriteID: e2d05ee098c6a49498329f53e81d4d2f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_14
+      name: idol sprite_14
       rect:
         serializedVersion: 2
-        x: 564
-        y: 4533
-        width: 963
-        height: 1410
+        x: 1887
+        y: 217
+        width: 832
+        height: 1755
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -426,19 +418,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d3ae8e2e1416e448a0b7c6eaa061e15
+      spriteID: 4230b4e1a30a2444298559b05391cacc
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_15
+      name: idol sprite_15
       rect:
         serializedVersion: 2
-        x: 1765
-        y: 4533
-        width: 963
-        height: 1400
+        x: 2818
+        y: 223
+        width: 827
+        height: 1763
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -446,19 +438,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ded90daf703eaa54fb52ab29bb222adc
+      spriteID: 7121073a8b56bbc4ab7ffef442c8534b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_16
+      name: idol sprite_16
       rect:
         serializedVersion: 2
-        x: 3074
-        y: 4533
-        width: 972
-        height: 1381
+        x: 3691
+        y: 223
+        width: 832
+        height: 1769
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -466,19 +458,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 096bedd86b16bfd4094a4145b76cbb42
+      spriteID: 730ab3f252942b244a4aaea1b1ec44a8
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_17
+      name: idol sprite_17
       rect:
         serializedVersion: 2
-        x: 4518
-        y: 4494
-        width: 948
-        height: 1391
+        x: 4752
+        y: 223
+        width: 826
+        height: 1772
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -486,167 +478,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9699ca3d1433ca548a4800205c74c03e
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite salto fireslam_18
-      rect:
-        serializedVersion: 2
-        x: 5933
-        y: 4469
-        width: 944
-        height: 1416
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9018a5098609575428adb76ef830085a
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite salto fireslam_19
-      rect:
-        serializedVersion: 2
-        x: 7358
-        y: 4440
-        width: 929
-        height: 1454
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fb0af17ba0bc0364f8d32532a9acea7e
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite salto fireslam_20
-      rect:
-        serializedVersion: 2
-        x: 8773
-        y: 4411
-        width: 915
-        height: 1474
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6fce8e71ea9bea94fb9c2902e6d35b3a
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite salto fireslam_21
-      rect:
-        serializedVersion: 2
-        x: 506
-        y: 2626
-        width: 914
-        height: 1488
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6d1858b0856d2ce4183dba8f672c1f3e
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite salto fireslam_22
-      rect:
-        serializedVersion: 2
-        x: 1765
-        y: 2626
-        width: 920
-        height: 1503
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 561787be3ee7419458c64f5ba8b953bd
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite salto fireslam_23
-      rect:
-        serializedVersion: 2
-        x: 3171
-        y: 2660
-        width: 919
-        height: 1513
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d48f6bd01b5ed2c4d9874b5d7b2ae4c2
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite salto fireslam_24
-      rect:
-        serializedVersion: 2
-        x: 4528
-        y: 2587
-        width: 919
-        height: 1537
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d0b843173aaee474c90763b3548fbef5
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite salto fireslam_25
-      rect:
-        serializedVersion: 2
-        x: 5933
-        y: 2587
-        width: 934
-        height: 1522
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6a15d3b48c53e2644b572ae930081818
+      spriteID: a790cd744a6705648a54ecaa9944e338
       vertices: []
       indices: 
       edges: []
@@ -654,7 +486,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: ef909de66ded3b944ab1713fc4f74bd0
+    spriteID: 714e2748106077f4698b40a3cb7854e0
     vertices: []
     indices: 
     edges: []

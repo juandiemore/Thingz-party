@@ -1,33 +1,26 @@
 fileFormatVersion: 2
-guid: 0070d6cb7e99a3c4bbb0f545289341de
+guid: 8ac696fd5ee89414d820cc54b4d7a20a
 TextureImporter:
   fileIDToRecycleName:
-    21300000: sprite salto fireslam_0
-    21300002: sprite salto fireslam_1
-    21300004: sprite salto fireslam_2
-    21300006: sprite salto fireslam_3
-    21300008: sprite salto fireslam_4
-    21300010: sprite salto fireslam_5
-    21300012: sprite salto fireslam_6
-    21300014: sprite salto fireslam_7
-    21300016: sprite salto fireslam_8
-    21300018: sprite salto fireslam_9
-    21300020: sprite salto fireslam_10
-    21300022: sprite salto fireslam_11
-    21300024: sprite salto fireslam_12
-    21300026: sprite salto fireslam_13
-    21300028: sprite salto fireslam_14
-    21300030: sprite salto fireslam_15
-    21300032: sprite salto fireslam_16
-    21300034: sprite salto fireslam_17
-    21300036: sprite salto fireslam_18
-    21300038: sprite salto fireslam_19
-    21300040: sprite salto fireslam_20
-    21300042: sprite salto fireslam_21
-    21300044: sprite salto fireslam_22
-    21300046: sprite salto fireslam_23
-    21300048: sprite salto fireslam_24
-    21300050: sprite salto fireslam_25
+    21300000: se cae y se levanta_0
+    21300002: se cae y se levanta_1
+    21300004: se cae y se levanta_2
+    21300006: se cae y se levanta_3
+    21300008: se cae y se levanta_4
+    21300010: se cae y se levanta_5
+    21300012: se cae y se levanta_6
+    21300014: se cae y se levanta_7
+    21300016: se cae y se levanta_8
+    21300018: se cae y se levanta_9
+    21300020: se cae y se levanta_10
+    21300022: se cae y se levanta_11
+    21300024: se cae y se levanta_12
+    21300026: se cae y se levanta_13
+    21300028: se cae y se levanta_14
+    21300030: se cae y se levanta_15
+    21300032: se cae y se levanta_16
+    21300034: se cae y se levanta_17
+    21300036: se cae y se levanta_18
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -132,33 +125,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: sprite salto fireslam_0
+      name: se cae y se levanta_0
       rect:
         serializedVersion: 2
-        x: 520
-        y: 8093
-        width: 905
-        height: 1502
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ddd86b5d2203f6e4f96a09db0fb20bcf
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite salto fireslam_1
-      rect:
-        serializedVersion: 2
-        x: 1517
-        y: 8151
+        x: 100
+        y: 4181
         width: 920
-        height: 1532
+        height: 1760
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,19 +139,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87ff3bc4cfd99c544af703b4d056fc57
+      spriteID: 406bf939c8f3bb04a984fb1863e4f572
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_2
+      name: se cae y se levanta_1
       rect:
         serializedVersion: 2
-        x: 2723
-        y: 8151
-        width: 920
-        height: 1532
+        x: 1321
+        y: 4313
+        width: 1304
+        height: 1497
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -186,19 +159,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d042b612c51e10a4280d65540a53f714
+      spriteID: 2196d6d29016ce341a5b1bb46255b9dd
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_3
+      name: se cae y se levanta_2
       rect:
         serializedVersion: 2
-        x: 4037
-        y: 8146
-        width: 943
-        height: 1522
+        x: 2619
+        y: 4482
+        width: 1553
+        height: 1166
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -206,19 +179,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 940b75b2dda08ae408c25266e6a570a6
+      spriteID: 86ac953069441a140ba52c64529deeb3
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_4
+      name: se cae y se levanta_3
       rect:
         serializedVersion: 2
-        x: 5350
-        y: 8146
-        width: 943
-        height: 1522
+        x: 4257
+        y: 4995
+        width: 1453
+        height: 818
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -226,19 +199,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e11f1aa583b5f484ca0160d171231fb0
+      spriteID: 2afc5fc0ed6ba6940ae97ddfabea129e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_5
+      name: se cae y se levanta_4
       rect:
         serializedVersion: 2
-        x: 6668
-        y: 8131
-        width: 958
-        height: 1503
+        x: 2016
+        y: 3621
+        width: 1617
+        height: 727
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -246,19 +219,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 954c724dbdcbf6c4fb5beff165960b1a
+      spriteID: e54e350fb8e9b33498d423114f64b31c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_6
+      name: se cae y se levanta_5
       rect:
         serializedVersion: 2
-        x: 7995
-        y: 8209
-        width: 973
-        height: 1484
+        x: 3967
+        y: 4219
+        width: 1837
+        height: 644
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -266,19 +239,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e3eb25cc93709141825fff2646e4d63
+      spriteID: 444005d98fcba9047b6a450788a00c6f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_7
+      name: se cae y se levanta_6
       rect:
         serializedVersion: 2
-        x: 525
-        y: 6337
-        width: 978
-        height: 1464
+        x: 0
+        y: 2798
+        width: 1805
+        height: 662
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -286,19 +259,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b9c3cdc23ada80e4fbd84d77333c9227
+      spriteID: b225635db730d5a4c9742b986011507a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_8
+      name: se cae y se levanta_7
       rect:
         serializedVersion: 2
-        x: 1731
-        y: 6337
-        width: 1012
-        height: 1449
+        x: 0
+        y: 3434
+        width: 1550
+        height: 726
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -306,19 +279,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1e1a0b5e83f555047a34830b4131e42b
+      spriteID: d2d98acdf50550e4aa7ee3062ffc9474
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_9
+      name: se cae y se levanta_8
       rect:
         serializedVersion: 2
-        x: 3171
-        y: 6288
-        width: 982
-        height: 1498
+        x: 2016
+        y: 2868
+        width: 1769
+        height: 683
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -326,19 +299,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c57f8b8107350c54393585ea731b9cf8
+      spriteID: 8fbe3cd6ec66702408ff85297ff61ee3
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_10
+      name: se cae y se levanta_9
       rect:
         serializedVersion: 2
-        x: 4508
-        y: 6244
-        width: 968
-        height: 1542
+        x: 3970
+        y: 3334
+        width: 1725
+        height: 712
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -346,19 +319,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61f3d0711b5c9924b97034f462f778b5
+      spriteID: b89e66d40be297a458b9949df6f906e6
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_11
+      name: se cae y se levanta_10
       rect:
         serializedVersion: 2
-        x: 5826
-        y: 6235
-        width: 963
-        height: 1551
+        x: 284
+        y: 2083
+        width: 21
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -366,19 +339,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6c559eba85dc15f42b5c441710927aec
+      spriteID: 9bba1205b7ef2ee4dbb216d801b13bb5
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_12
+      name: se cae y se levanta_11
       rect:
         serializedVersion: 2
-        x: 7139
-        y: 6283
-        width: 939
-        height: 1459
+        x: 313
+        y: 1805
+        width: 1492
+        height: 870
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -386,19 +359,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b829ac9e6165a9e4cb3d4bfb86abe1e9
+      spriteID: d8681017f5e405748a93866123087add
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_13
+      name: se cae y se levanta_12
       rect:
         serializedVersion: 2
-        x: 8438
-        y: 6225
-        width: 943
-        height: 1440
+        x: 1969
+        y: 1825
+        width: 1594
+        height: 982
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -406,19 +379,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 95a92092b0c7c514996e62f6acb9b7dd
+      spriteID: 5c1415abc6703604688a3802d3b7d2ad
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_14
+      name: se cae y se levanta_13
       rect:
         serializedVersion: 2
-        x: 564
-        y: 4533
-        width: 963
-        height: 1410
+        x: 3949
+        y: 1825
+        width: 1418
+        height: 1439
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -426,19 +399,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d3ae8e2e1416e448a0b7c6eaa061e15
+      spriteID: 1bf9b35f7988bf14d8fed258091d3996
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_15
+      name: se cae y se levanta_14
       rect:
         serializedVersion: 2
-        x: 1765
-        y: 4533
-        width: 963
-        height: 1400
+        x: 82
+        y: 41
+        width: 1090
+        height: 1588
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -446,19 +419,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ded90daf703eaa54fb52ab29bb222adc
+      spriteID: a0eebfe1e49cb3942a62446c37d7975c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_16
+      name: se cae y se levanta_15
       rect:
         serializedVersion: 2
-        x: 3074
-        y: 4533
-        width: 972
-        height: 1381
+        x: 1313
+        y: 0
+        width: 706
+        height: 1688
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -466,19 +439,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 096bedd86b16bfd4094a4145b76cbb42
+      spriteID: 257d8bb25a3d6654bb06d876ff2e1933
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_17
+      name: se cae y se levanta_16
       rect:
         serializedVersion: 2
-        x: 4518
-        y: 4494
-        width: 948
-        height: 1391
+        x: 2200
+        y: 0
+        width: 847
+        height: 1688
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -486,19 +459,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9699ca3d1433ca548a4800205c74c03e
+      spriteID: 54fb524350ebaec439375d4580829f74
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_18
+      name: se cae y se levanta_17
       rect:
         serializedVersion: 2
-        x: 5933
-        y: 4469
+        x: 3322
+        y: 0
         width: 944
-        height: 1416
+        height: 1711
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -506,19 +479,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9018a5098609575428adb76ef830085a
+      spriteID: b587bed11eb2626498432eafbf5e3977
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_19
+      name: se cae y se levanta_18
       rect:
         serializedVersion: 2
-        x: 7358
-        y: 4440
-        width: 929
-        height: 1454
+        x: 4652
+        y: 35
+        width: 917
+        height: 1770
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -526,127 +499,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb0af17ba0bc0364f8d32532a9acea7e
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite salto fireslam_20
-      rect:
-        serializedVersion: 2
-        x: 8773
-        y: 4411
-        width: 915
-        height: 1474
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6fce8e71ea9bea94fb9c2902e6d35b3a
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite salto fireslam_21
-      rect:
-        serializedVersion: 2
-        x: 506
-        y: 2626
-        width: 914
-        height: 1488
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6d1858b0856d2ce4183dba8f672c1f3e
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite salto fireslam_22
-      rect:
-        serializedVersion: 2
-        x: 1765
-        y: 2626
-        width: 920
-        height: 1503
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 561787be3ee7419458c64f5ba8b953bd
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite salto fireslam_23
-      rect:
-        serializedVersion: 2
-        x: 3171
-        y: 2660
-        width: 919
-        height: 1513
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d48f6bd01b5ed2c4d9874b5d7b2ae4c2
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite salto fireslam_24
-      rect:
-        serializedVersion: 2
-        x: 4528
-        y: 2587
-        width: 919
-        height: 1537
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d0b843173aaee474c90763b3548fbef5
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite salto fireslam_25
-      rect:
-        serializedVersion: 2
-        x: 5933
-        y: 2587
-        width: 934
-        height: 1522
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6a15d3b48c53e2644b572ae930081818
+      spriteID: 10a918b9adb69c74eadcd48057695b09
       vertices: []
       indices: 
       edges: []
@@ -654,14 +507,14 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: ef909de66ded3b944ab1713fc4f74bd0
+    spriteID: f1f5767342294e84084fcc676cba2a2e
     vertices: []
     indices: 
     edges: []
     weights: []
   spritePackingTag: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
+  pSDShowRemoveMatteOption: 1
   userData: 
   assetBundleName: 
   assetBundleVariant: 

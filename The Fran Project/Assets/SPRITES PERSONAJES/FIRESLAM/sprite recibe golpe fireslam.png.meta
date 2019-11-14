@@ -1,33 +1,26 @@
 fileFormatVersion: 2
-guid: 0070d6cb7e99a3c4bbb0f545289341de
+guid: 1f9c1b57ef9fa6c4f8477164f39c3e14
 TextureImporter:
   fileIDToRecycleName:
-    21300000: sprite salto fireslam_0
-    21300002: sprite salto fireslam_1
-    21300004: sprite salto fireslam_2
-    21300006: sprite salto fireslam_3
-    21300008: sprite salto fireslam_4
-    21300010: sprite salto fireslam_5
-    21300012: sprite salto fireslam_6
-    21300014: sprite salto fireslam_7
-    21300016: sprite salto fireslam_8
-    21300018: sprite salto fireslam_9
-    21300020: sprite salto fireslam_10
-    21300022: sprite salto fireslam_11
-    21300024: sprite salto fireslam_12
-    21300026: sprite salto fireslam_13
-    21300028: sprite salto fireslam_14
-    21300030: sprite salto fireslam_15
-    21300032: sprite salto fireslam_16
-    21300034: sprite salto fireslam_17
-    21300036: sprite salto fireslam_18
-    21300038: sprite salto fireslam_19
-    21300040: sprite salto fireslam_20
-    21300042: sprite salto fireslam_21
-    21300044: sprite salto fireslam_22
-    21300046: sprite salto fireslam_23
-    21300048: sprite salto fireslam_24
-    21300050: sprite salto fireslam_25
+    21300000: sprite recibe golpe fireslam_0
+    21300002: sprite recibe golpe fireslam_1
+    21300004: sprite recibe golpe fireslam_2
+    21300006: sprite recibe golpe fireslam_3
+    21300008: sprite recibe golpe fireslam_4
+    21300010: sprite recibe golpe fireslam_5
+    21300012: sprite recibe golpe fireslam_6
+    21300014: sprite recibe golpe fireslam_7
+    21300016: sprite recibe golpe fireslam_8
+    21300018: sprite recibe golpe fireslam_9
+    21300020: sprite recibe golpe fireslam_10
+    21300022: sprite recibe golpe fireslam_11
+    21300024: sprite recibe golpe fireslam_12
+    21300026: sprite recibe golpe fireslam_13
+    21300028: sprite recibe golpe fireslam_14
+    21300030: sprite recibe golpe fireslam_15
+    21300032: sprite recibe golpe fireslam_16
+    21300034: sprite recibe golpe fireslam_17
+    21300036: sprite recibe golpe fireslam_18
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -132,13 +125,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: sprite salto fireslam_0
+      name: sprite recibe golpe fireslam_0
       rect:
         serializedVersion: 2
-        x: 520
-        y: 8093
-        width: 905
-        height: 1502
+        x: 625
+        y: 7754
+        width: 1084
+        height: 1807
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -146,19 +139,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ddd86b5d2203f6e4f96a09db0fb20bcf
+      spriteID: ef4a96bc813ef424995e23df03456cff
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_1
+      name: sprite recibe golpe fireslam_1
       rect:
         serializedVersion: 2
-        x: 1517
-        y: 8151
-        width: 920
-        height: 1532
+        x: 1968
+        y: 7754
+        width: 1128
+        height: 1904
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,19 +159,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87ff3bc4cfd99c544af703b4d056fc57
+      spriteID: ad6ff9c51cbed7e4dabf91d57311ad24
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_2
+      name: sprite recibe golpe fireslam_2
       rect:
         serializedVersion: 2
-        x: 2723
-        y: 8151
-        width: 920
-        height: 1532
+        x: 3574
+        y: 7754
+        width: 1133
+        height: 1904
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -186,19 +179,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d042b612c51e10a4280d65540a53f714
+      spriteID: b1d53ba2b9406e240b338b66b813a28a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_3
+      name: sprite recibe golpe fireslam_3
       rect:
         serializedVersion: 2
-        x: 4037
-        y: 8146
-        width: 943
-        height: 1522
+        x: 5195
+        y: 7749
+        width: 1133
+        height: 1904
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -206,19 +199,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 940b75b2dda08ae408c25266e6a570a6
+      spriteID: 2b8dd0179e0200b4e8a37c5478cf5295
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_4
+      name: sprite recibe golpe fireslam_4
       rect:
         serializedVersion: 2
-        x: 5350
-        y: 8146
-        width: 943
-        height: 1522
+        x: 6812
+        y: 7754
+        width: 1123
+        height: 1904
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -226,19 +219,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e11f1aa583b5f484ca0160d171231fb0
+      spriteID: bc52a08f863ee3d488ee807a68e18688
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_5
+      name: sprite recibe golpe fireslam_5
       rect:
         serializedVersion: 2
-        x: 6668
-        y: 8131
-        width: 958
-        height: 1503
+        x: 8418
+        y: 7749
+        width: 1133
+        height: 1899
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -246,19 +239,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 954c724dbdcbf6c4fb5beff165960b1a
+      spriteID: 5fc00234a7a8ef84b9df696fd08422b2
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_6
+      name: sprite recibe golpe fireslam_6
       rect:
         serializedVersion: 2
-        x: 7995
-        y: 8209
-        width: 973
-        height: 1484
+        x: 464
+        y: 5566
+        width: 1138
+        height: 1895
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -266,19 +259,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e3eb25cc93709141825fff2646e4d63
+      spriteID: a7ff83922931c7f48a0eb37cac4d0c7d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_7
+      name: sprite recibe golpe fireslam_7
       rect:
         serializedVersion: 2
-        x: 525
-        y: 6337
-        width: 978
-        height: 1464
+        x: 1968
+        y: 5566
+        width: 1137
+        height: 1895
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -286,19 +279,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b9c3cdc23ada80e4fbd84d77333c9227
+      spriteID: 26f1220395d5c39409a416d68c937bbe
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_8
+      name: sprite recibe golpe fireslam_8
       rect:
         serializedVersion: 2
-        x: 1731
-        y: 6337
-        width: 1012
-        height: 1449
+        x: 3574
+        y: 5566
+        width: 1153
+        height: 1895
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -306,19 +299,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1e1a0b5e83f555047a34830b4131e42b
+      spriteID: d596d9df83feb5d4e98d733a85f41016
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_9
+      name: sprite recibe golpe fireslam_9
       rect:
         serializedVersion: 2
-        x: 3171
-        y: 6288
-        width: 982
-        height: 1498
+        x: 5352
+        y: 5566
+        width: 1132
+        height: 1875
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -326,19 +319,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c57f8b8107350c54393585ea731b9cf8
+      spriteID: a40738893c4ddee4a895c8ec4af0556f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_10
+      name: sprite recibe golpe fireslam_10
       rect:
         serializedVersion: 2
-        x: 4508
-        y: 6244
-        width: 968
-        height: 1542
+        x: 6187
+        y: 7363
+        width: 102
+        height: 98
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -346,19 +339,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61f3d0711b5c9924b97034f462f778b5
+      spriteID: abbd9bcf873dc2343a5460aaba46e937
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_11
+      name: sprite recibe golpe fireslam_11
       rect:
         serializedVersion: 2
-        x: 5826
-        y: 6235
-        width: 963
-        height: 1551
+        x: 6812
+        y: 5562
+        width: 1123
+        height: 1899
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -366,19 +359,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6c559eba85dc15f42b5c441710927aec
+      spriteID: be3e38a17c9eaf740a35ad1a10a05e84
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_12
+      name: sprite recibe golpe fireslam_12
       rect:
         serializedVersion: 2
-        x: 7139
-        y: 6283
-        width: 939
-        height: 1459
+        x: 8423
+        y: 5566
+        width: 1128
+        height: 1900
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -386,19 +379,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b829ac9e6165a9e4cb3d4bfb86abe1e9
+      spriteID: def3ef53dee69aa41b4b280df2ee5fe5
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_13
+      name: sprite recibe golpe fireslam_13
       rect:
         serializedVersion: 2
-        x: 8438
-        y: 6225
-        width: 943
-        height: 1440
+        x: 464
+        y: 3340
+        width: 1128
+        height: 1880
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -406,19 +399,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 95a92092b0c7c514996e62f6acb9b7dd
+      spriteID: 0103d1a1e20f6824f92688df31abcaed
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_14
+      name: sprite recibe golpe fireslam_14
       rect:
         serializedVersion: 2
-        x: 564
-        y: 4533
-        width: 963
-        height: 1410
+        x: 1294
+        y: 5137
+        width: 112
+        height: 102
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -426,19 +419,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d3ae8e2e1416e448a0b7c6eaa061e15
+      spriteID: 1aaf70bb1c62a684880f6a0c31faedaf
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_15
+      name: sprite recibe golpe fireslam_15
       rect:
         serializedVersion: 2
-        x: 1765
-        y: 4533
-        width: 963
-        height: 1400
+        x: 1968
+        y: 3335
+        width: 1137
+        height: 1904
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -446,19 +439,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ded90daf703eaa54fb52ab29bb222adc
+      spriteID: 1a763c5a1f082304288a093098bb6332
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_16
+      name: sprite recibe golpe fireslam_16
       rect:
         serializedVersion: 2
-        x: 3074
-        y: 4533
-        width: 972
-        height: 1381
+        x: 3574
+        y: 3359
+        width: 1148
+        height: 1910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -466,19 +459,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 096bedd86b16bfd4094a4145b76cbb42
+      spriteID: 9ba28ca3b5469444882fef555a8dd06d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_17
+      name: sprite recibe golpe fireslam_17
       rect:
         serializedVersion: 2
-        x: 4518
-        y: 4494
-        width: 948
-        height: 1391
+        x: 5195
+        y: 3335
+        width: 1153
+        height: 1885
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -486,19 +479,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9699ca3d1433ca548a4800205c74c03e
+      spriteID: b88e3e47f0274604ab7bb24a7efc6ed2
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite salto fireslam_18
+      name: sprite recibe golpe fireslam_18
       rect:
         serializedVersion: 2
-        x: 5933
-        y: 4469
-        width: 944
-        height: 1416
+        x: 6021
+        y: 5137
+        width: 102
+        height: 102
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -506,147 +499,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9018a5098609575428adb76ef830085a
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite salto fireslam_19
-      rect:
-        serializedVersion: 2
-        x: 7358
-        y: 4440
-        width: 929
-        height: 1454
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fb0af17ba0bc0364f8d32532a9acea7e
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite salto fireslam_20
-      rect:
-        serializedVersion: 2
-        x: 8773
-        y: 4411
-        width: 915
-        height: 1474
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6fce8e71ea9bea94fb9c2902e6d35b3a
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite salto fireslam_21
-      rect:
-        serializedVersion: 2
-        x: 506
-        y: 2626
-        width: 914
-        height: 1488
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6d1858b0856d2ce4183dba8f672c1f3e
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite salto fireslam_22
-      rect:
-        serializedVersion: 2
-        x: 1765
-        y: 2626
-        width: 920
-        height: 1503
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 561787be3ee7419458c64f5ba8b953bd
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite salto fireslam_23
-      rect:
-        serializedVersion: 2
-        x: 3171
-        y: 2660
-        width: 919
-        height: 1513
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d48f6bd01b5ed2c4d9874b5d7b2ae4c2
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite salto fireslam_24
-      rect:
-        serializedVersion: 2
-        x: 4528
-        y: 2587
-        width: 919
-        height: 1537
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d0b843173aaee474c90763b3548fbef5
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite salto fireslam_25
-      rect:
-        serializedVersion: 2
-        x: 5933
-        y: 2587
-        width: 934
-        height: 1522
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6a15d3b48c53e2644b572ae930081818
+      spriteID: 3baa5d987faf1d14cac33c12cb0a8259
       vertices: []
       indices: 
       edges: []
@@ -654,7 +507,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: ef909de66ded3b944ab1713fc4f74bd0
+    spriteID: 58c7b7d762b115b428a88008a824e8cf
     vertices: []
     indices: 
     edges: []
