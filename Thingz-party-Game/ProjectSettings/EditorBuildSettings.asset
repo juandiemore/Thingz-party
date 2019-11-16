@@ -15,7 +15,7 @@ EditorBuildSettings:
     path: Assets/src/Scenes/juego.unity
     guid: ed98cacdbee50434aa78e8ef3ecc9173
   - enabled: 1
-    path: Assets/src/Scenes/pjs.unity
+    path: Assets/src/Scenes/seleccionPlayer1.unity
     guid: bf9d9bf2afb6f3e44aaa39a64d925486
   - enabled: 1
     path: Assets/src/Scenes/mapa.unity
