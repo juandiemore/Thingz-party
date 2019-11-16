@@ -23,4 +23,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/src/Scenes/instrucciones.unity
     guid: 1feaf635fbf267d4990f180191e924be
+  - enabled: 1
+    path: Assets/src/Scenes/seleccionPlayer2.unity
+    guid: 1352c331fa975cd43817cf1d4fecfa9c
   m_configObjects: {}

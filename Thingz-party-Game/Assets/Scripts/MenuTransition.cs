@@ -37,7 +37,7 @@ public class MenuTransition : MonoBehaviour
 
     if(Input.GetKeyDown(KeyCode.Return)){
         animMenu.SetBool("selected",true);
-          audio.clip = ok;
+        audio.clip = ok;
         audio.Play();
         }
     }

@@ -1,9 +1,9 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class PlayerSelection : MonoBehaviour
+public class PlayerSelection2 : MonoBehaviour
 {
 
     static public int seleccion = 1;
