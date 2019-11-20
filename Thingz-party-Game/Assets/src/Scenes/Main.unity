@@ -427,7 +427,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 573940208}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dfb7466458a1d6a4fbdc2e8b6a7b81d8, type: 3}
+  m_Script: {fileID: 11500000, guid: 889af2a097faa314a83c6bbbf2017eee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &604790765
@@ -579,8 +579,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1634189595}
-  - component: {fileID: 1634189597}
   - component: {fileID: 1634189596}
+  - component: {fileID: 1634189597}
   m_Layer: 0
   m_Name: soundManager
   m_TagString: Untagged
@@ -707,7 +707,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1634189594}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e0bab3a350678554787790276b9a4851, type: 3}
+  m_Script: {fileID: 11500000, guid: 77cdc128798e6414883128dd9868d973, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1910287306
